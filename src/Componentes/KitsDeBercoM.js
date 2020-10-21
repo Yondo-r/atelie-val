@@ -24,7 +24,6 @@ class KitsDeBercoM extends Component {
     render() {
         return (
             <Container >
-
                 <div>
                     <Carousel className="CaroulselKitsBerco">
                         {
